@@ -100,32 +100,32 @@ The EXPLAIN ANALYZE output is useful because it shows both the actual execution 
 
 This project demonstrates how SQL can be used to:
 
-Find highly streamed tracks.
-Analyze artist and album performance.
-Measure audience engagement.
-Compare Spotify streams with YouTube views.
-Analyze audio characteristics.
-Rank tracks within individual artists.
-Compare energy levels across albums.
-Optimize and evaluate SQL queries using execution plans.
+- Find highly streamed tracks.
+- Analyze artist and album performance.
+- Measure audience engagement.
+- Compare Spotify streams with YouTube views.
+- Analyze audio characteristics.
+- Rank tracks within individual artists.
+- Compare energy levels across albums.
+- Optimize and evaluate SQL queries using execution plans.
 
 ## Learning Outcomes
 
 Through this project, I strengthened my understanding of:
 
-PostgreSQL
-SQL data analysis
-Aggregation and grouping
-Filtering and sorting
-CTEs
-Window functions
-Ranking
-Subqueries
-Data type handling
-Indexing
-EXPLAIN ANALYZE
-Query execution plans
-Performance analysis
+- PostgreSQL
+- SQL data analysis
+- Aggregation and grouping
+- Filtering and sorting
+- CTEs
+- Window functions
+- Ranking
+- Subqueries
+- Data type handling
+- Indexing
+- EXPLAIN ANALYZE
+- Query execution plans
+- Performance analysis
 
 
 ## Conclusion
